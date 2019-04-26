@@ -1,0 +1,5 @@
+#buscaimatge{
+-fx-background-image: url("/img/ceps.jpg");
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover;
+}
